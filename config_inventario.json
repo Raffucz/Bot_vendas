@@ -1,0 +1,9 @@
+{
+    "x_inicio": 1025,
+    "y_inicio": 215,
+    "largura_slot": 48,
+    "altura_slot": 48,
+    "colunas": 5,
+    "linhas": 8,
+    "_origem": "imagem"
+}
